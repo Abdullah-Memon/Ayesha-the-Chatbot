@@ -1,0 +1,8 @@
+﻿open files
+close files
+open browser
+google
+facebook
+gmail
+youtube
+search
